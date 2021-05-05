@@ -16,3 +16,8 @@
    ###  Room for improvement
   
    - The Holiday List can be externalized as a rest API so as to dynamically check the holiday based on State and Date
+
+   ###  Run the project
+  
+   - clone the project
+   - ./mvnw spring-boot:run
